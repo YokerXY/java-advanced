@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="056ef630-5445-41a4-83a8-d4a6853874af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/util/com/java/advanced/IntergerDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/src/com/java/advanced/ConvarDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/src/com/java/advanced/DaLeTou.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/src/com/java/advanced/MathDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/src/com/java/advanced/RandomColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/src/util/MathDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/src/com/java/advanced/IntergerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/util/src/com/java/advanced/IntergerDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,9 +15,11 @@
     <session id="910946316">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -51,10 +46,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/util/src/com/java/advanced/Hello.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
+            <state relative-caret-position="104">
               <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
               <folding>
                 <element signature="e#92#93#0" expanded="true" />
@@ -76,7 +71,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/util/src/com/java/advanced/RandomColor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
+            <state relative-caret-position="1404">
               <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -85,11 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/util/src/com/java/advanced/DaLeTou.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+            <state relative-caret-position="64">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -166,8 +161,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="909" />
-    <option name="y" value="123" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
     <option name="width" value="1077" />
     <option name="height" value="816" />
   </component>
@@ -180,6 +175,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,13 +198,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552392578480" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552393379581" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -230,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DaLeTou">
+  <component name="RunManager" selected="Application.Hi">
     <configuration name="ConvarDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.advanced.ConvarDemo01" />
       <module name="util" />
@@ -257,8 +252,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.advanced.MathDemo" />
+    <configuration name="Hi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.advanced.Hi" />
       <module name="util" />
       <extension name="coverage">
         <pattern>
@@ -270,12 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomColor (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.advance.RandomColor" />
+    <configuration name="MathDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.advanced.MathDemo" />
       <module name="util" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.advance.*" />
+          <option name="PATTERN" value="com.java.advanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,18 +293,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.RandomColor" />
-      <item itemvalue="Application.RandomColor (1)" />
       <item itemvalue="Application.ConvarDemo01" />
       <item itemvalue="Application.MathDemo (1)" />
       <item itemvalue="Application.DaLeTou" />
+      <item itemvalue="Application.Hi" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hi" />
         <item itemvalue="Application.DaLeTou" />
         <item itemvalue="Application.RandomColor" />
         <item itemvalue="Application.MathDemo (1)" />
         <item itemvalue="Application.ConvarDemo01" />
-        <item itemvalue="Application.RandomColor (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -324,12 +319,13 @@
       <option name="presentableId" value="Default" />
       <updated>1552350591622</updated>
       <workItem from="1552350596640" duration="10823000" />
-      <workItem from="1552392076028" duration="498000" />
+      <workItem from="1552392076028" duration="1674000" />
+      <workItem from="1552396385927" duration="749000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11267000" />
+    <option name="totallyTimeSpent" value="13246000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -344,7 +340,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20856912" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19240098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -353,15 +349,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.49256507" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49256507" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4995958" weight="0.32899627" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.43866172" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5004042" side_tool="true" weight="0.3197026" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5004042" side_tool="true" weight="0.3197026" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3307393" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32899627" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -383,21 +379,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/util/src/com/java/advanced/InterDemo.java" />
     <entry file="file://$PROJECT_DIR$/util/src/com/java/advanced/RandomDemo.java" />
-    <entry file="file://$PROJECT_DIR$/util/src/com/java/advanced/Hello.java">
+    <entry file="file://$PROJECT_DIR$/util/src/com/java/advanced/DaLE.java" />
+    <entry file="file://$PROJECT_DIR$/util/src/com/java/advanced/RandomColor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        <state relative-caret-position="1404">
+          <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
           <folding>
-            <element signature="e#92#93#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/src/com/java/advanced/IntergerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -425,27 +414,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/util/src/com/java/advanced/DaLE.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/src/com/java/advanced/RandomColor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/util/src/com/java/advanced/DaLeTou.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        <state relative-caret-position="64">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/com/java/advanced/IntergerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/src/com/java/advanced/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
